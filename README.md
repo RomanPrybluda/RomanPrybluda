@@ -14,14 +14,14 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 - OOP, SOLID, TPL
 
 ### 🌐 Connect with Me
-<p align="left" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/romanprybluda/">
+<p align="left" style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/romanprybluda/" style="padding: 10px;>
     <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/linkedin.svg" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://t.me/RPrybluda">
+  <a href="https://t.me/RPrybluda" style="padding: 10px;>
     <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/telegram.svg" alt="Telegram" height="30"/>
   </a>
-  <a href="mailto:r.prybluda.dev@gmail.com">
+  <a href="mailto:r.prybluda.dev@gmail.com" style="padding: 10px;>
     <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/gmail.svg" alt="Email" height="30"/>
   </a>
 </p>
