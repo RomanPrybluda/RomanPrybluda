@@ -23,10 +23,10 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 ---
 
 ### 🛠️ Current Projects
-✅ [ShipInfo](https://github.com/RomanPrybluda/ShipInfo) The service provides access to information about **civil fleet vessels**.
-✅ [SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM) CRM system for managing the **development of documentation** for vessels.
-✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/)
-✅ [OnlineStore](https://github.com/RomanPrybluda/OnlineStore) Team project about **CRAFT SWEETs** on [Team challenge](https://teamchallenge.io/)
+- ✅ [ShipInfo](https://github.com/RomanPrybluda/ShipInfo) The service provides access to information about **civil fleet vessels**.
+- ✅ [SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM) CRM system for managing the **development of documentation** for vessels.
+- ✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/)
+- ✅ [OnlineStore](https://github.com/RomanPrybluda/OnlineStore) Team project about **CRAFT SWEETs** on [Team challenge](https://teamchallenge.io/)
 
 ---
 
