@@ -24,7 +24,7 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
     <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/telegram.svg" alt="Telegram" width="100px"/>
   </a>
   <a href="mailto:r.prybluda.dev@gmail.com">
-    <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/gmail-old-svgrepo-com.svg" alt="Email" width="100px"/>
+    <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/gmail.svg" alt="Email" width="100px"/>
   </a>
 </p>
 
