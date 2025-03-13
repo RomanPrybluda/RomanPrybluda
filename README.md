@@ -14,7 +14,7 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 - OOP, SOLID, TPL
 
 ### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/romanprybluda/) | [Telegram](https://t.me/RPrybluda) | [Email](mailto:r.prybluda.dev@gmail.com)
+**[LinkedIn](https://www.linkedin.com/in/romanprybluda/)    |    [Telegram](https://t.me/RPrybluda)    |    [Gmail](mailto:r.prybluda.dev@gmail.com)**
 
 ---
 
@@ -25,8 +25,8 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 ### 🛠️ Current Projects
 - ✅ [ShipInfo](https://github.com/RomanPrybluda/ShipInfo) The service provides access to information about **civil fleet vessels**.
 - ✅ [SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM) CRM system for managing the **development of documentation** for vessels.
-- ✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/)
-- ✅ [OnlineStore](https://github.com/RomanPrybluda/OnlineStore) Team project about **CRAFT SWEETs** on [Team challenge](https://teamchallenge.io/)
+- ✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/).
+- ✅ [OnlineStore](https://github.com/RomanPrybluda/OnlineStore) Team project about **CRAFT SWEETs** on [Team challenge](https://teamchallenge.io/) under development.
 
 ---
 
