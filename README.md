@@ -14,9 +14,7 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 - OOP, SOLID, TPL
 
 ### 🌐 Connect with Me
-**[LinkedIn](https://www.linkedin.com/in/romanprybluda/)    |    [Telegram](https://t.me/RPrybluda)    |    [Gmail](mailto:r.prybluda.dev@gmail.com)**
-
-<p align="center" style="display: flex; gap: 10px; justify-content: center;">
+<p align="left" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/romanprybluda/">
     <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/linkedin.svg" alt="LinkedIn" height="30"/>
   </a>
