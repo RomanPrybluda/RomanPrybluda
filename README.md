@@ -16,6 +16,18 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 ### 🌐 Connect with Me
 **[LinkedIn](https://www.linkedin.com/in/romanprybluda/)    |    [Telegram](https://t.me/RPrybluda)    |    [Gmail](mailto:r.prybluda.dev@gmail.com)**
 
+<p align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/romanprybluda/">
+    <img src="https://raw.githubusercontent.com/RomanPrybluda/RomanPrybluda/main/assets/linkedin.svg" alt="LinkedIn" width="100px"/>
+  </a>
+  <a href="https://t.me/RPrybluda">
+    <img src="https://raw.githubusercontent.com/RomanPrybluda/RomanPrybluda/main/assets/telegram.svg" alt="Telegram" width="100px"/>
+  </a>
+  <a href="mailto:r.prybluda.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/RomanPrybluda/RomanPrybluda/main/assets/email.svg" alt="Email" width="100px"/>
+  </a>
+</p>
+
 ---
 
 > "Code is like a ship – it should be solid, maintainable, and always moving forward."
