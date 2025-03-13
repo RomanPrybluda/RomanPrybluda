@@ -18,10 +18,10 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 
 <p align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/romanprybluda/">
-    <img src="https://raw.githubusercontent.com/RomanPrybluda/RomanPrybluda/main/assets/linkedin.svg" alt="LinkedIn" width="100px"/>
+    <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/linkedin-svgrepo-com.svg" alt="LinkedIn" width="100px"/>
   </a>
   <a href="https://t.me/RPrybluda">
-    <img src="https://raw.githubusercontent.com/RomanPrybluda/RomanPrybluda/main/assets/telegram.svg" alt="Telegram" width="100px"/>
+    <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/telegram-svgrepo-com.svg" alt="Telegram" width="100px"/>
   </a>
   <a href="mailto:r.prybluda.dev@gmail.com">
     <img src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/gmail-old-svgrepo-com.svg" alt="Email" width="100px"/>
