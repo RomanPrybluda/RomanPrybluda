@@ -15,7 +15,7 @@ With **non-commercial experience** in **C# .NET**, I specialize in building scal
 🚢 **[ShipInfo](https://github.com/RomanPrybluda/ShipInfo)** – service providing data on **civil fleet vessels**.  
 📑 **[SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM)** – CRM system for managing **technical documentation** for vessels.  
 🚗 **[TFAuto](https://github.com/RomanPrybluda/TFAuto)** – automotive blog, developed during an internship at [TechFabric](https://www.techfabric.com/).  
-🍫 **[OnlineStore](https://github.com/RomanPrybluda/OnlineStore)** – team project for **craft sweets**.  
+🍫 **[OnlineStore](https://github.com/RomanPrybluda/OnlineStore)** – team project for **craft sweets** on [Team challenge](https://teamchallenge.io/) under development..  
 
 ### 📫 **How to Reach Me**  
 <p align="left">
