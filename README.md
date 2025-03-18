@@ -1,44 +1,62 @@
-### About Me
+# 👨‍💻 **Roman Prybluda**  
+### 🚀 C# .NET Backend Developer | Software Engineer  
 
-I'm a **C# .NET Backend Developer** with a passion for clean architecture and robust APIs. Currently, I'm expanding my expertise into **frontend development** and **desktop applications**. 
+With a passion for **clean architecture** and **robust APIs**, I specialize in building scalable backend solutions using **.NET**. Expanding my expertise into **frontend development** and **desktop applications**.  
 
-With hands-on experience in the **maritime industry** as an **engineer**, **designer**, and **surveyor**, I bring a unique perspective to software development, blending precision and problem-solving from the real world into the digital one.
+🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
-### Skills
-- C# / .NET / ASP.NET Core    |  WebAPI, REST Api, Swagger, JWT
-- MSSQL, PostgreSQL, EF Core  |  OOP, SOLID, TPL.
+---
 
-### My contacts
+## 🔧 **Tech Stack & Skills**
+### **Backend**
+- ⚡ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
+- ⚡ **Databases**: MSSQL, PostgreSQL, EF Core  
+- ⚡ **Architecture**: OOP, SOLID, TPL, Clean Code  
 
-<p align="left" style="display: flex; justify-content: center;">
+### **Tools & DevOps**
+- 🛠️ Docker, GitHub Actions, CI/CD  
+- 🛠️ Git, Postman, Selenium  
+
+---
+
+## 🌟 **Current Projects**
+📌 **[ShipInfo](https://github.com/RomanPrybluda/ShipInfo)** – service providing data on **civil fleet vessels**.  
+📌 **[SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM)** – CRM system for managing **technical documentation** for vessels.  
+📌 **[TFAuto](https://github.com/RomanPrybluda/TFAuto)** – automotive blog, developed during an internship at [TechFabric](https://www.techfabric.com/).  
+📌 **[OnlineStore](https://github.com/RomanPrybluda/OnlineStore)** – team project for **craft sweets**.  
+
+---
+
+## 📫 **How to Reach Me**  
+<p align="left">
   <a href="https://www.linkedin.com/in/romanprybluda/">
-    <img 
-      src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/linkedin.svg" 
-      alt="LinkedIn" 
-      height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;   
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:r.prybluda.dev@gmail.com">
-    <img 
-      src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/gmail.svg" 
-      alt="Email" 
-      height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://t.me/RPrybluda">
-    <img 
-      src="https://github.com/RomanPrybluda/RomanPrybluda/blob/main/assets/telegram.svg" 
-      alt="Telegram" 
-      height="30"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-> "Code is like a ship – it should be solid, maintainable, and always moving forward."
+> ⚓ "Code is like a ship – it should be solid, maintainable, and always moving forward."
 
 ---
 
-### Current Projects
-- ✅ [ShipInfo](https://github.com/RomanPrybluda/ShipInfo) The service provides access to information about **civil fleet vessels**.
-- ✅ [SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM) CRM system for managing the **development of documentation** for vessels.
-- ✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/).
-- ✅ [OnlineStore](https://github.com/RomanPrybluda/OnlineStore) Team project about **CRAFT SWEETs** on [Team challenge](https://teamchallenge.io/) under development.
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomanPrybluda&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanPrybluda&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🎯 **Next Steps**
+- 🔥 Enhancing CI/CD automation  
+- 🔥 Improving frontend development skills  
+- 🔥 Exploring Golang for microservices  
+
+---
