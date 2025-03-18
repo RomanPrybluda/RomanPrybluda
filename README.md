@@ -5,22 +5,19 @@ With **2 years of non-commercial experience** in **C# .NET**, I specialize in bu
 
 🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
----
 
-## 🔧 **Skills**
+## 📊 **Skills**
 - ⚡ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
 - ⚡ **Databases**: MSSQL, PostgreSQL, EF Core  
 - ⚡ **Architecture**: OOP, SOLID, TPL, Clean Code
 
----
 
 ## 🌟 **Current Projects**
-📌 **[ShipInfo](https://github.com/RomanPrybluda/ShipInfo)** – service providing data on **civil fleet vessels**.  
-📌 **[SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM)** – CRM system for managing **technical documentation** for vessels.  
-📌 **[TFAuto](https://github.com/RomanPrybluda/TFAuto)** – automotive blog, developed during an internship at [TechFabric](https://www.techfabric.com/).  
-📌 **[OnlineStore](https://github.com/RomanPrybluda/OnlineStore)** – team project for **craft sweets**.  
+🚢 **[ShipInfo](https://github.com/RomanPrybluda/ShipInfo)** – service providing data on **civil fleet vessels**.  
+📑 **[SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM)** – CRM system for managing **technical documentation** for vessels.  
+🚗 **[TFAuto](https://github.com/RomanPrybluda/TFAuto)** – automotive blog, developed during an internship at [TechFabric](https://www.techfabric.com/).  
+🍫 **[OnlineStore](https://github.com/RomanPrybluda/OnlineStore)** – team project for **craft sweets**.  
 
----
 
 ## 📫 **How to Reach Me**  
 <p align="left">
