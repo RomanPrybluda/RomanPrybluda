@@ -18,6 +18,7 @@ With **2 years of non-commercial experience** in **C# .NET**, I specialize in bu
 🚗 **[TFAuto](https://github.com/RomanPrybluda/TFAuto)** – automotive blog, developed during an internship at [TechFabric](https://www.techfabric.com/).  
 🍫 **[OnlineStore](https://github.com/RomanPrybluda/OnlineStore)** – team project for **craft sweets**.  
 
+> ⚓ "Code is like a ship – it should be solid, maintainable, and always moving forward."
 
 ## 📫 **How to Reach Me**  
 <p align="left">
@@ -31,16 +32,3 @@ With **2 years of non-commercial experience** in **C# .NET**, I specialize in bu
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-
----
-
-> ⚓ "Code is like a ship – it should be solid, maintainable, and always moving forward."
-
----
-
-### 🎯 **Next Steps**
-- 🔥 Enhancing CI/CD automation  
-- 🔥 Improving frontend development skills  
-- 🔥 Exploring Golang for microservices  
-
----
