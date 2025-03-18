@@ -46,14 +46,6 @@ With a passion for **clean architecture** and **robust APIs**, I specialize in b
 
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanPrybluda&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanPrybluda&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ### 🎯 **Next Steps**
 - 🔥 Enhancing CI/CD automation  
 - 🔥 Improving frontend development skills  
