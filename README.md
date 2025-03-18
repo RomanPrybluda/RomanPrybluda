@@ -7,9 +7,9 @@ With **non-commercial experience** in **C# .NET**, I specialize in building scal
 🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
 ### 📊 **Skills**
-- ⚡ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
-- ⚡ **Databases**: MSSQL, PostgreSQL, EF Core  
-- ⚡ **Architecture**: OOP, SOLID, TPL, Clean Code
+- **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
+- **Databases**: MSSQL, PostgreSQL, EF Core  
+- **Architecture**: OOP, SOLID, TPL, Clean Code
 
 ### 🌟 **Current Projects**
 🚢 **[ShipInfo](https://github.com/RomanPrybluda/ShipInfo)** – service providing data on **civil fleet vessels**.  
