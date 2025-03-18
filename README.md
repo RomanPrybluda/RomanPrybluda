@@ -8,7 +8,8 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 - C# / .NET / ASP.NET Core    |  WebAPI, REST Api, Swagger, JWT
 - MSSQL, PostgreSQL, EF Core  |  OOP, SOLID, TPL.
 
-## Connect with Me
+---
+
 <p align="left" style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/romanprybluda/">
     <img 
@@ -41,10 +42,3 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 - ✅ [SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM) CRM system for managing the **development of documentation** for vessels.
 - ✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/).
 - ✅ [OnlineStore](https://github.com/RomanPrybluda/OnlineStore) Team project about **CRAFT SWEETs** on [Team challenge](https://teamchallenge.io/) under development.
-
----
-
-### 🏷️ Tags
-`C#` `ASP.NET` `.NET` `Backend` `PostgreSQL` `MSSQL` `Docker` `Blazor` `WPF` `GitHub Actions` `Software Development` `Marine Industry` `Clean Architecture` `Microservices` `REST API` `Unit Testing`
-
-
