@@ -1,21 +1,16 @@
 # 👨‍💻 **Roman Prybluda**  
 ### 🚀 C# .NET Backend Developer | Software Engineer  
 
-With a passion for **clean architecture** and **robust APIs**, I specialize in building scalable backend solutions using **.NET**. Expanding my expertise into **frontend development** and **desktop applications**.  
+With **2 years of non-commercial experience** in **C# .NET**, I specialize in building **scalable backend solutions** using **.NET**, focusing on **clean architecture** and **robust APIs**. Currently, I am expanding my expertise into **frontend development** and **desktop applications**.
 
 🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
 ---
 
-## 🔧 **Tech Stack & Skills**
-### **Backend**
+## 🔧 **Skills**
 - ⚡ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
 - ⚡ **Databases**: MSSQL, PostgreSQL, EF Core  
-- ⚡ **Architecture**: OOP, SOLID, TPL, Clean Code  
-
-### **Tools & DevOps**
-- 🛠️ Docker, GitHub Actions, CI/CD  
-- 🛠️ Git, Postman, Selenium  
+- ⚡ **Architecture**: OOP, SOLID, TPL, Clean Code
 
 ---
 
