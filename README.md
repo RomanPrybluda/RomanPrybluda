@@ -1,6 +1,7 @@
 ## About Me
 
-I'm a **C# .NET Backend Developer** with a passion for clean architecture and robust APIs. Currently, I'm expanding my expertise into **frontend development** and **desktop applications**.
+I'm a **C# .NET Backend Developer** with a passion for clean architecture and robust APIs. Currently, I'm expanding my expertise into **frontend development** and **desktop applications**. 
+
 With hands-on experience in the **maritime industry** as an **engineer**, **designer**, and **surveyor**, I bring a unique perspective to software development, blending precision and problem-solving from the real world into the digital one.
 
 ### 💻 Skills
