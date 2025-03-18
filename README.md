@@ -3,7 +3,7 @@
 
 > ⚓ "Code is like a ship – it should be solid, maintainable, and always moving forward."
 
-With **2 years of non-commercial experience** in **C# .NET**, I specialize in building **scalable backend solutions** using **.NET**, focusing on **clean architecture** and **robust APIs**. Currently, I am expanding my expertise into **frontend development** and **desktop applications**.
+With *non-commercial experience* in *C# .NET*, I specialize in building scalable backend solutions with a strong focus on clean architecture and robust APIs. Currently, I am expanding my expertise into *frontend* development and *desktop applications* to become a more versatile developer.
 
 🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
