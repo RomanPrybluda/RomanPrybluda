@@ -1,17 +1,11 @@
-# 👋 Hey there!
-
 ## About Me
 
 I'm a **C# .NET Backend Developer** with a passion for clean architecture and robust APIs. Currently, I'm expanding my expertise into **frontend development** and **desktop applications**.
-
-### 🌊 My Background
 With hands-on experience in the **maritime industry** as an **engineer**, **designer**, and **surveyor**, I bring a unique perspective to software development, blending precision and problem-solving from the real world into the digital one.
 
 ### 💻 Skills
-- C# / .NET / ASP.NET Core
-- WebAPI, REST Api, Swagger, JWT
-- MSSQL | PostgreSQL | EF Core
-- OOP, SOLID, TPL
+- C# / .NET / ASP.NET Core    |  WebAPI, REST Api, Swagger, JWT
+- MSSQL, PostgreSQL, EF Core  |  OOP, SOLID, TPL.
 
 ### 🌐 Connect with Me
 <p align="left" style="display: flex; justify-content: center;">
