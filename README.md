@@ -1,12 +1,14 @@
-## About Me
+### About Me
 
 I'm a **C# .NET Backend Developer** with a passion for clean architecture and robust APIs. Currently, I'm expanding my expertise into **frontend development** and **desktop applications**. 
 
 With hands-on experience in the **maritime industry** as an **engineer**, **designer**, and **surveyor**, I bring a unique perspective to software development, blending precision and problem-solving from the real world into the digital one.
 
-## Skills
+### Skills
 - C# / .NET / ASP.NET Core    |  WebAPI, REST Api, Swagger, JWT
 - MSSQL, PostgreSQL, EF Core  |  OOP, SOLID, TPL.
+
+### My contacts
 
 <p align="left" style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/romanprybluda/">
@@ -35,7 +37,7 @@ With hands-on experience in the **maritime industry** as an **engineer**, **desi
 
 ---
 
-## Current Projects
+### Current Projects
 - ✅ [ShipInfo](https://github.com/RomanPrybluda/ShipInfo) The service provides access to information about **civil fleet vessels**.
 - ✅ [SSC_CRM](https://github.com/RomanPrybluda/SSC_CRM) CRM system for managing the **development of documentation** for vessels.
 - ✅ [TFAuto](https://github.com/RomanPrybluda/TFAuto) Blog about **cars**. Team project as part of an internship at [TechFabric](https://www.techfabric.com/).
