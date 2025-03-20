@@ -1,8 +1,8 @@
 ## 👨‍💻 **Roman Prybluda**
 > ⚓ "Code is like a ship – it should be solid, maintainable, and always moving forward."
-### 🚀 C# .NET Backend Developer | Software Engineer
+### 🚀 C# .NET Back-end Developer | Software Engineer
 
-🔹 I specialize in building scalable backend solutions with a strong focus on clean architecture and robust APIs. Currently, I am expanding my expertise into **frontend** development and **desktop applications** to become a full-stack developer.
+🔹 I specialize in building scalable back-end solutions with a focus on clean architecture and robust APIs. Currently, I am expanding my expertise into **fron-tend** development and **desktop applications** to become a full-stack developer.
 
 🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
