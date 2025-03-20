@@ -7,9 +7,10 @@
 🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
 
 ### 📊 **Skills**
-- **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
-- **Databases**: MSSQL, PostgreSQL, EF Core  
-- **Architecture**: OOP, SOLID, TPL, Clean Code
+✔️ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
+✔️ **Databases**: MSSQL, PostgreSQL, EF Core  
+✔️ **CI/CDDatabases**: GitHub Actions  
+✔️ **Architecture**: OOP, SOLID, TPL, Clean Code
 
 ### 📫 **How to Reach Me**  
 <p align="left">
