@@ -9,7 +9,7 @@
 ### 📊 **Skills**
 ✔️ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
 ✔️ **Databases**: MSSQL, PostgreSQL, EF Core  
-✔️ **CI/CDDatabases**: GitHub Actions  
+✔️ **CI/CD**: GitHub Actions  
 ✔️ **Architecture**: OOP, SOLID, TPL, Clean Code
 
 ### 📫 **How to Reach Me**  
