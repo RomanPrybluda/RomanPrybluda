@@ -11,16 +11,3 @@
 ✔️ **Databases**: MSSQL, PostgreSQL, EF Core  
 ✔️ **CI/CD**: GitHub Actions  
 ✔️ **Architecture**: OOP, SOLID, TPL, Clean Code
-
-### 📫 **How to Reach Me**  
-<p align="left">
-  <a href="https://www.linkedin.com/in/romanprybluda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:r.prybluda.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/RPrybluda">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
