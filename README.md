@@ -4,7 +4,7 @@
 
 🔹 I specialize in building scalable back-end solutions with a focus on robust APIs. Currently, I am expanding my expertise into **front-end** development and **desktop applications** to become a full-stack developer.
 
-🔹 Experience in the **maritime industry** as an **engineer, designer, and surveyor** helps me bring precision and real-world problem-solving into software development.  
+🔹 My background in the **maritime industry** as an **engineer**, **designer**, and **surveyor** enables me to bring precision and real-world problem-solving into software development.
 
 ### 📊 **Skills**
 ✔️ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
