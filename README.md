@@ -1,4 +1,4 @@
-## 👨‍💻 **Roman Prybluda**
+## 👨‍💻 **[Roman Prybluda](https://www.linkedin.com/in/romanprybluda/)**
 > ⚓ "Code is like a ship – it should be solid, maintainable, and always moving forward."
 ### 🚀 C# .NET Back-end Developer | Software Engineer
 
