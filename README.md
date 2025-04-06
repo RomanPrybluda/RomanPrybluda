@@ -8,6 +8,7 @@
 
 ### 📊 **Skills**
 ✔️ **C# / .NET** (ASP.NET Core, Web API, REST, Swagger, JWT)  
-✔️ **Databases**: MSSQL, CosmosDB **ORM**: EF Core
+✔️ **Databases**: MSSQL, CosmosDB  
+✔️ **ORM**: EF Core  
 ✔️ **CI/CD**: GitHub Actions  
 ✔️ **Architecture**: OOP, SOLID, N-tier and Clean Architecture, Microservices
